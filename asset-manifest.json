@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/food-app/static/css/main.1084383b.css",
+    "main.js": "/food-app/static/js/main.ba408c19.js",
+    "static/media/Raleway-BoldItalic.woff2": "/food-app/static/media/Raleway-BoldItalic.557bf739a5bae44c5764.woff2",
+    "static/media/Raleway-ExtraBold.woff2": "/food-app/static/media/Raleway-ExtraBold.7e9442737c46bc21bfb1.woff2",
+    "static/media/Raleway-Light.woff2": "/food-app/static/media/Raleway-Light.b6a694fa1398c4ceda85.woff2",
+    "static/media/Raleway-Medium.woff2": "/food-app/static/media/Raleway-Medium.496f74ad061875353761.woff2",
+    "static/media/LogoFood.svg": "/food-app/static/media/LogoFood.13a1de47ee3272db86e9.svg",
+    "static/media/food_footer.svg": "/food-app/static/media/food_footer.2500df9fc725ab1a8b27.svg",
+    "index.html": "/food-app/index.html",
+    "main.1084383b.css.map": "/food-app/static/css/main.1084383b.css.map",
+    "main.ba408c19.js.map": "/food-app/static/js/main.ba408c19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1084383b.css",
+    "static/js/main.ba408c19.js"
+  ]
+}
